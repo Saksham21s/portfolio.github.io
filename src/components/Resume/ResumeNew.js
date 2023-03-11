@@ -2,8 +2,8 @@
 import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
-import pdf from "../../Assets/../Assets/saksham-main-res.pdf";
-import resume from "../../Assets/resume.jpg";
+import pdf from "../../Assets/../Assets/resume.pdf";
+import resume from "../../Assets/resume.jpeg";
 import { AiOutlineDownload } from "react-icons/ai";
 import {  pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
